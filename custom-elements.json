@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "tags": [
+    {
+      "name": "lit-docker-starter",
+      "description": "",
+      "properties": [
+        {
+          "name": "title",
+          "type": "String",
+          "description": "The title of your application",
+          "default": "Hey there"
+        }
+      ],
+      "events": [],
+      "slots": [],
+      "cssProperties": []
+    }
+  ]
+}
